@@ -4,7 +4,6 @@ import 'dart:math' as math;
 import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/svg.dart';
 import 'package:fvs_mobile/apiService.dart';
 import 'package:fvs_mobile/cemaraView.dart';
 import 'package:google_mlkit_face_detection/google_mlkit_face_detection.dart';
